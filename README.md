@@ -57,6 +57,7 @@ A lightweight **TinyML-based monitoring system** that:
    * Abnormal
 5. Result is printed via Serial Monitor
 
+* See setup.md for full setup
 ---
 
 ##  Project Structure
